@@ -7,4 +7,4 @@ params:
     active: true
   logo:
     header: ''
-    footer: ''
+    footer: '/assets/images/logo-science-po.svg'
