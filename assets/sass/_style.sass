@@ -3,5 +3,10 @@ h2, .h2
     color: $color-accent
 
 h1
-    &:hover
+    &::first-letter
+        background: $color-accent
+        color: white
+        padding: 5px 15px 0px
+        margin-right: 10px
         font-family: "Redaction pixel", serif !important
+        overflow: hidden
