@@ -5,3 +5,6 @@ allowed_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
+  - "fr.wikipedia.org"
+  - "www.pyoudeyer.com"
+  - "www.isir.upmc.fr"
