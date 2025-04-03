@@ -34,6 +34,13 @@ items:
     children: []
     path: "/pages/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain"
     file: content/fr/pages/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain/_index.html
+  - title: 'Groupe 2 : Comment utiliser l''I.A. pour apprendre mieux ?'
+    target: "/groupes-de-travaux/groupe-2-comment-utiliser-lia-pour-apprendre-mieux/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/groupes-de-travaux/groupe-2-comment-utiliser-lia-pour-apprendre-mieux"
+    file: content/fr/pages/groupes-de-travaux/groupe-2-comment-utiliser-lia-pour-apprendre-mieux/_index.html
   path: "/pages/groupes-de-travaux"
   file: content/fr/pages/groupes-de-travaux/_index.html
 - title: Agenda
