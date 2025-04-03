@@ -48,6 +48,13 @@ items:
     children: []
     path: "/pages/groupes-de-travaux/groupe-3-risques-de-lia-dans-leducation"
     file: content/fr/pages/groupes-de-travaux/groupe-3-risques-de-lia-dans-leducation/_index.html
+  - title: 'Groupe 4 : Faut-il former tous les apprenants et formateurs ? '
+    target: "/groupes-de-travaux/groupe-4-faut-il-former-tous-les-apprenants-et-formateurs/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/groupes-de-travaux/groupe-4-faut-il-former-tous-les-apprenants-et-formateurs"
+    file: content/fr/pages/groupes-de-travaux/groupe-4-faut-il-former-tous-les-apprenants-et-formateurs/_index.html
   path: "/pages/groupes-de-travaux"
   file: content/fr/pages/groupes-de-travaux/_index.html
 - title: Agenda
