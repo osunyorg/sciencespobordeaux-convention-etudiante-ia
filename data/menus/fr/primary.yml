@@ -19,16 +19,16 @@ items:
   target: "/groupes-de-travaux/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: 'Groupe 1 : Quelles compétences et métiers demain ?'
+    target: "/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain"
+    file: content/fr/pages/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain/_index.html
   path: "/pages/groupes-de-travaux"
   file: content/fr/pages/groupes-de-travaux/_index.html
-- title: 'Groupe 1 : Quelles compétences et métiers demain ?'
-  target: "/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain"
-  file: content/fr/pages/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
