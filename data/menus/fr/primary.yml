@@ -41,6 +41,13 @@ items:
     children: []
     path: "/pages/groupes-de-travaux/groupe-2-comment-utiliser-lia-pour-apprendre-mieux"
     file: content/fr/pages/groupes-de-travaux/groupe-2-comment-utiliser-lia-pour-apprendre-mieux/_index.html
+  - title: 'Groupe 3 : Risques de l''IA dans l''éducation'
+    target: "/groupes-de-travaux/groupe-3-risques-de-lia-dans-leducation/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/groupes-de-travaux/groupe-3-risques-de-lia-dans-leducation"
+    file: content/fr/pages/groupes-de-travaux/groupe-3-risques-de-lia-dans-leducation/_index.html
   path: "/pages/groupes-de-travaux"
   file: content/fr/pages/groupes-de-travaux/_index.html
 - title: Agenda
