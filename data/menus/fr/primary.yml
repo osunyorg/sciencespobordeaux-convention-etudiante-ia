@@ -16,55 +16,54 @@ items:
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Groupes de travaux
-  target: "/groupes-de-travaux/"
+  target: "/groupes/"
   kind: page
   new_tab: false
   children:
   - title: Présentation des groupes
-    target: "/groupes-de-travaux/"
+    target: "/groupes/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/groupes-de-travaux"
-    file: content/fr/pages/groupes-de-travaux/_index.html
-  - title: 'Groupe 1 : Quelles compétences et métiers demain ?'
-    target: "/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain/"
+    path: "/pages/groupes"
+    file: content/fr/pages/groupes/_index.html
+  - title: Quelles compétences et métiers demain ?
+    target: "/groupes/quelles-competences-et-metiers-demain/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain"
-    file: content/fr/pages/groupes-de-travaux/groupe-1-quelles-competences-et-metiers-demain/_index.html
-  - title: 'Groupe 2 : Comment utiliser l''I.A. pour apprendre mieux ?'
-    target: "/groupes-de-travaux/groupe-2-comment-utiliser-lia-pour-apprendre-mieux/"
+    path: "/pages/groupes/quelles-competences-et-metiers-demain"
+    file: content/fr/pages/groupes/quelles-competences-et-metiers-demain/_index.html
+  - title: Comment utiliser l'I.A. pour apprendre mieux ?
+    target: "/groupes/comment-utiliser-lia-pour-apprendre-mieux/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/groupes-de-travaux/groupe-2-comment-utiliser-lia-pour-apprendre-mieux"
-    file: content/fr/pages/groupes-de-travaux/groupe-2-comment-utiliser-lia-pour-apprendre-mieux/_index.html
-  - title: 'Groupe 3 : Risques de l''IA dans l''éducation'
-    target: "/groupes-de-travaux/groupe-3-risques-de-lia-dans-leducation/"
+    path: "/pages/groupes/comment-utiliser-lia-pour-apprendre-mieux"
+    file: content/fr/pages/groupes/comment-utiliser-lia-pour-apprendre-mieux/_index.html
+  - title: Risques de l'IA dans l'éducation
+    target: "/groupes/risques-de-lia-dans-leducation/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/groupes-de-travaux/groupe-3-risques-de-lia-dans-leducation"
-    file: content/fr/pages/groupes-de-travaux/groupe-3-risques-de-lia-dans-leducation/_index.html
-  - title: 'Groupe 4 : Faut-il former tous les apprenants et formateurs ? '
-    target: "/groupes-de-travaux/groupe-4-faut-il-former-tous-les-apprenants-et-formateurs/"
+    path: "/pages/groupes/risques-de-lia-dans-leducation"
+    file: content/fr/pages/groupes/risques-de-lia-dans-leducation/_index.html
+  - title: Faut-il former tous les apprenants et formateurs ?
+    target: "/groupes/faut-il-former-tous-les-apprenants-et-formateurs/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/groupes-de-travaux/groupe-4-faut-il-former-tous-les-apprenants-et-formateurs"
-    file: content/fr/pages/groupes-de-travaux/groupe-4-faut-il-former-tous-les-apprenants-et-formateurs/_index.html
-  - title: 'Groupe 5 : Comment peut-on évaluer un élève sur des travaux personnels
-      ?'
-    target: "/groupes-de-travaux/groupe-5-comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels/"
+    path: "/pages/groupes/faut-il-former-tous-les-apprenants-et-formateurs"
+    file: content/fr/pages/groupes/faut-il-former-tous-les-apprenants-et-formateurs/_index.html
+  - title: Comment peut-on évaluer un élève sur des travaux personnels ?
+    target: "/groupes/comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/groupes-de-travaux/groupe-5-comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels"
-    file: content/fr/pages/groupes-de-travaux/groupe-5-comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels/_index.html
-  path: "/pages/groupes-de-travaux"
-  file: content/fr/pages/groupes-de-travaux/_index.html
+    path: "/pages/groupes/comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels"
+    file: content/fr/pages/groupes/comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels/_index.html
+  path: "/pages/groupes"
+  file: content/fr/pages/groupes/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
