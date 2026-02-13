@@ -2,87 +2,117 @@
 title: Menu principal
 items:
 - title: Accueil
+  slug: accueil
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/"
   file: content/fr/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Groupes de travaux
+  slug: groupes-de-travaux
   target: "/groupes/"
   kind: page
   new_tab: false
   children:
   - title: Présentation des groupes
+    slug: presentation-des-groupes
     target: "/groupes/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/groupes"
     file: content/fr/pages/groupes/_index.html
   - title: Quelles compétences et métiers demain ?
+    slug: quelles-competences-et-metiers-demain
     target: "/groupes/quelles-competences-et-metiers-demain/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/groupes/quelles-competences-et-metiers-demain"
     file: content/fr/pages/groupes/quelles-competences-et-metiers-demain/_index.html
   - title: Comment utiliser l'I.A. pour apprendre mieux ?
+    slug: comment-utiliser-l-i-a-pour-apprendre-mieux
     target: "/groupes/comment-utiliser-lia-pour-apprendre-mieux/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/groupes/comment-utiliser-lia-pour-apprendre-mieux"
     file: content/fr/pages/groupes/comment-utiliser-lia-pour-apprendre-mieux/_index.html
   - title: Risques de l'IA dans l'éducation
+    slug: risques-de-l-ia-dans-l-education
     target: "/groupes/risques-de-lia-dans-leducation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/groupes/risques-de-lia-dans-leducation"
     file: content/fr/pages/groupes/risques-de-lia-dans-leducation/_index.html
   - title: Faut-il former tous les apprenants et formateurs ?
+    slug: faut-il-former-tous-les-apprenants-et-formateurs
     target: "/groupes/faut-il-former-tous-les-apprenants-et-formateurs/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/groupes/faut-il-former-tous-les-apprenants-et-formateurs"
     file: content/fr/pages/groupes/faut-il-former-tous-les-apprenants-et-formateurs/_index.html
   - title: Comment peut-on évaluer un élève sur des travaux personnels ?
+    slug: comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels
     target: "/groupes/comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/groupes/comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels"
     file: content/fr/pages/groupes/comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels/_index.html
+  descendants_targets:
+  - "/groupes/"
+  - "/groupes/comment-peut-on-evaluer-un-eleve-sur-des-travaux-personnels/"
+  - "/groupes/comment-utiliser-lia-pour-apprendre-mieux/"
+  - "/groupes/faut-il-former-tous-les-apprenants-et-formateurs/"
+  - "/groupes/quelles-competences-et-metiers-demain/"
+  - "/groupes/risques-de-lia-dans-leducation/"
   path: "/pages/groupes"
   file: content/fr/pages/groupes/_index.html
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Projets
+  slug: projets
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Équipe
+  slug: equipe
   target: "/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 
